@@ -1,0 +1,113 @@
+*{
+    background-color: lawngreen;
+}
+
+.header{
+    background-color: lightcoral;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    justify-content: center;
+}
+
+.panda{
+    display: flex;
+    color: lightskyblue;
+}
+
+.pandatext{
+    display: flex;
+    justify-content: space-between;
+    color: mediumblue;
+}
+
+.chameleon{
+    display : flex;
+    color:red
+}
+
+.chameleon-text{
+    display: flex;
+    justify-content: space-between;
+    color:greenyellow
+}
+
+.cicada{
+    display : flex;
+    color:black
+}
+
+.cicada-text{
+    display: flex;
+    justify-content: space-between;
+    color:red
+}
+
+.pigeon{
+    display : flex;
+    color:brown
+}
+
+.pigeon-text{
+    display: flex;
+    justify-content: space-between;
+    color:black
+}
+
+.teddy{
+    display : flex;
+    color:magenta
+}
+
+.teddy-text{
+    display: flex;
+    justify-content: space-between;
+    color:brown
+}
+
+.camel{
+    display : flex;
+    color:palegreen
+}
+
+.camel-text{
+    display: flex;
+    justify-content: space-between;
+    color:gold
+}
+
+    h1{
+        text-align: center;
+        margin-left: 30px;
+        color : blue;
+        padding: 25px;
+}
+
+body{
+    background: blue;
+    color: whitesmoke;
+}
+
+.Links {
+    padding: 25px;
+}
+
+img {
+    margin-bottom: -5px;
+}
+
+li {
+    color: #696969;
+}
+
+b {
+    font-size: 20px;
+    color: #008b8b;
+}
+
+i {
+    font-size: 20px;
+    color: #b22222;
+}
